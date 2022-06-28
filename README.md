@@ -1,73 +1,48 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Hello microverse project
 
-# Project Name
+# description
 
-> Description the project.
-
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+1. Added `Project.css` as an external style sheet to the `Preoject.html` file.
 
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+2. In the `Project.html` file:
+       
+       
+       - 2.1. Added `section` with a class of `good`.
+      
+       - 2.2. Added `div` with a class of `New`.
+       
+       - 2.3. Added a Header 1 with a text "Hello Microverse" 
 
 
+3. In the `Project.css` file:
+       
+       
+       - 3.1. body Background color to Brown(`rgb(79, 21, 21)`).
+      
+      
+       - 3.2. class `good` has a:
+              - propert `display` set to `flex`.
+              - content justify to center.
+              - items are align to center.
+              - height to 65vh.
+              - font are sized to 2rem.
+      
+      
+       - 3.3. class `New` has a:
+              - text color to aqua blue.
+              - box shadow ranged to `0 8px 8px 0` and color `rgba(232, 241, 245, 0.2)`.
+              - background color `rgb(50, 42, 42)`.
+              - And `'Segoe UI', Tahoma, Geneva, Verdana, sans-serif` as a font.
 
-## Authors
 
-👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+ - Gave hover to `new` class with a box shadow and color of `0 8px 16px 0 rgba(253, 246, 246, 0.2)`
+ 
+ 
+ - created a `footer` and style include:
+ 
+             - has a property `display` set to `flex`
+             - content justify to center
+             - has a top margin of 10rem
+             - text in white color

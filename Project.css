@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(79, 21, 21);
+}
+
+.good {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 65vh;
+  font-size: 2rem;
+}
+
+.New {
+  color: aqua;
+  box-shadow: 0 8px 8px 0 rgba(232, 241, 245, 0.2);
+  background-color: rgb(50, 42, 42);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.New:hover {
+  box-shadow: 0 8px 16px 0 rgba(253, 246, 246, 0.2);
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 10rem;
+  color: aliceblue;
+}
